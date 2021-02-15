@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @petucabrera
-- 👀 I’m interested in making indie games.
-- 🌱 I’m currently learning to integrate crypto to games.
-- 💞️ I’m looking to collaborate on anything.
+- 👀 I’m interested in making indie games...
+- 🌱 I’m currently learning to integrate crypto to games...
+- 💞️ I’m looking to get your codes here and use it for my own benefit lol...
 - 📫 How to reach me. just pray maybe you'll reach me..
 
 <!---
